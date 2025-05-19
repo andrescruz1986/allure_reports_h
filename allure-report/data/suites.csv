@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
 "","229036","Validate change to all available languages in Home page","","Mon May 19 11:44:06 COT 2025","passed","Mon May 19 11:47:55 COT 2025","","Changue Language feature flow","",""
 "","1885","TC_5: Validate section - How does it works","","Mon May 19 11:37:47 COT 2025","passed","Mon May 19 11:37:49 COT 2025","","Home page sections validation","",""
@@ -52,5 +51,3 @@
 "","2037","TC_10: Validate section - FAQs","","Mon May 19 11:38:23 COT 2025","passed","Mon May 19 11:38:25 COT 2025","","Home page sections validation","",""
 "","248853","Validate change to all available languages in PDP","","Mon May 19 11:47:56 COT 2025","passed","Mon May 19 11:52:05 COT 2025","","Changue Language feature flow","",""
 "","102373","TC_1: Validate change to all available currencies in PDP","","Mon May 19 11:42:16 COT 2025","passed","Mon May 19 11:43:58 COT 2025","","Change Currency feature flow","",""
-=======
->>>>>>> 03d4bbbce0cbbc8d147e187f95e028e1bdd8d8b3
